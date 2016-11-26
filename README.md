@@ -1,2 +1,4 @@
-# GitHubPrintMarkDown
-Small bookmarklet to print a markdown rendered file on github without other elements on the page
+The bookmarklet from the file 
+[javascriptcode.js](https://github.com/j0r1/GitHubPrintMarkDown/blob/master/javascriptcode.js)
+can be found at https://githubmdprint.appspot.com/
+
